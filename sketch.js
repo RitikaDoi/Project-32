@@ -73,8 +73,7 @@ function setup()
 function draw()
 {
   
-    if(backgroundImg)
-    background(backgroundImg);
+    background("lightBlue");
 
     textSize(35);
     fill("white");
